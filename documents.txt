@@ -1,0 +1,15 @@
+====================== User Management System in JavaFx =======================
+
+Hi Everyone, Hope you are all doing well and safe. 
+This is documentation regarding this project that helps you to understand how to run this software.
+
+Steps :-
+
+Step 1:- Open this project and go to dist folder.
+Step 2:- import the sql file in your prefered SQL tool.
+Step 3:- Now import the project into netbeans IDE and run the main class.
+Step 4:- You can direct run ums.jar file to run this project but make sure sql file is imported in SQL tool.
+
+
+
+======================== THANK YOU =======================================
